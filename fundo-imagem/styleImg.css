@@ -1,0 +1,13 @@
+div {
+    width: 100%;
+    height: 33vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  img {
+    box-shadow: 2px 2px 20px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+  }
